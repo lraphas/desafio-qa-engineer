@@ -4,6 +4,7 @@ Feature: Search courses by Teacher
     Background: Access Home Page
         Given i am on the home page
     
+        @search_by_list
         Scenario: Search course by Teacher's List
             When i click on By Teacher item on the navigation bar
             Then i must visualize the courses by teacher's page
@@ -14,6 +15,7 @@ Feature: Search courses by Teacher
             And i can compare the list price with the installment price
 
         
+        @search_by_filter
         Scenario: Search course by Filter
             When i click on By Teacher item on the navigation bar
             Then i must visualize the courses by teacher's page
@@ -25,6 +27,7 @@ Feature: Search courses by Teacher
             And i can compare the list price with the installment price
 
 
+        @validade_amount_courses_listed
         Scenario: Validate the amount of courses by Tacher's List
             When i click on By Teacher item on the navigation bar
             Then i must visualize the courses by teacher's page
