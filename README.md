@@ -16,7 +16,9 @@
 
 `cucumber -t @tag` to run only the tag scenarios that you choose.
 
-`cucumber -p ci` to run all test scenarios in headless mode. This is the same command are used on JenkinsCI.
+`cucumber -p ci` to run all test scenarios in headless mode. This is the same command are used on Jenkins.
 
+## Notes
 
+This project are ready to be plugged on Jenkins.
 
