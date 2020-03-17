@@ -20,5 +20,4 @@
 
 ## Notes
 
-This project are ready to be plugged on Jenkins.
-
+This project was tested on a local Jenkins enviroment and its ready to be run on a continuous testing workflow.
