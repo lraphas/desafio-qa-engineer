@@ -6,11 +6,13 @@
 
 ## Available Scripts
 
-#### In the project directory, you can run:
+#### In the project path, you can run:
 
 `bundle install` to pull all dependencies you need to run the test suite.
 
 `cucumber` to run all test scenarios. This command are configured to run on Chrome.
+
+`cucumber -p gecko` to run all test scenarios on Firefox.
 
 `cucumber -t @tag` to run only the tag scenarios that you choose.
 
