@@ -4,4 +4,4 @@ Before do
     @course_by_teacher_page = CourseByTeacherPage.new
     @teacher_page = TeacherPage.new
     @course_page = CoursePage.new
-  end
+end
