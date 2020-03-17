@@ -32,6 +32,9 @@ Na listagem de professores há diversos links quebrados, como o dos professores 
 1.9 - [Melhoria][Dashboard] - Página Meus Cursos
 Ao a Dashboard pela primeira vez,a tela "Meus Cursos" é carregada vazia. Seria interessante dar ap ossibilidade do usuário accessar o catálogo de  cursos à partir dela.
 
+2.0 - [Bug][Chat] - Label do botão em inglês
+O botão do chat deveria apresentar o label em português.
+
 
 
 
