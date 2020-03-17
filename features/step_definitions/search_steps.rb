@@ -1,7 +1,3 @@
-Given("i am on the home page") do
-    pending # Write code here that turns the phrase above into concrete actions
-  end
-  
   When("i click on By Teacher item on the navigation bar") do
     pending # Write code here that turns the phrase above into concrete actions
   end
