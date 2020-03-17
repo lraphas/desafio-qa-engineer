@@ -1,3 +1,3 @@
 Given("i am on the home page") do
-    visit "/"
+  visit "/"
 end
